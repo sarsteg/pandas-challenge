@@ -1,4 +1,4 @@
-# Pandas Challenge
+# Using Pandas to Analyze Data
 
 The project was completed as a part of UTSA Data Analytics and Visualization Program.
 
