@@ -14,8 +14,7 @@ Additionally, I was provided:
 This responsitory contains the following files:
 
 * README.md = That's this file! It's an overview of the respository.
-* Module 4 Challenge Instructions.pdf & Instructions Module 4 Challenge.docx = These are copies of the instructions for the project.
-* Support Documentation folder = This folder contains pdfs of websites and other support documentation used to create the code.
+* Support Documentation folder = This folder contains pdfs of websites and other support documentation used to create the code. Also included are instructions for the project.
 * PyCitySchools folder = This folder contains the documents for the project.
   * Example Template.ipynb = This template was provided for the project and serves as a baseline for the formatting of the project.
   * Responses in Template.ipynb= The template above was used to create this version of the code. Troubleshooting was completed in this document.
